@@ -88,12 +88,12 @@ export const hotels: Hotel[] = [
     location: 'Сочи, Центр',
     price: 7200,
     rating: 4.6,
-    image: 'https://cdn.poehali.dev/projects/e7350ded-ea73-497a-a535-0e7a49b24fde/files/36aac09d-4861-428b-8ec1-f216349edb92.jpg',
+    image: 'https://cdn.poehali.dev/projects/e7350ded-ea73-497a-a535-0e7a49b24fde/files/1bc530f2-cb64-46f5-8f3d-25188b19c295.jpg',
     amenities: ['Wi-Fi', 'Бассейн', 'Завтрак', 'Бар'],
     description: 'Уютный отель в центре Сочи, в шаговой доступности от набережной и основных развлечений.',
     images: [
-      'https://cdn.poehali.dev/projects/e7350ded-ea73-497a-a535-0e7a49b24fde/files/36aac09d-4861-428b-8ec1-f216349edb92.jpg',
-      'https://cdn.poehali.dev/projects/e7350ded-ea73-497a-a535-0e7a49b24fde/files/490e05ce-8cbd-4721-bf87-070950fa3fe6.jpg',
+      'https://cdn.poehali.dev/projects/e7350ded-ea73-497a-a535-0e7a49b24fde/files/1bc530f2-cb64-46f5-8f3d-25188b19c295.jpg',
+      'https://cdn.poehali.dev/projects/e7350ded-ea73-497a-a535-0e7a49b24fde/files/020d22fa-1dcd-456d-855e-100fb75330a3.jpg',
     ],
   },
 ];
