@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { useNavigate, useSearchParams } from 'react-router-dom';
-import Header from '@/components/layout/Header';
-import Footer from '@/components/layout/Footer';
+import Header from '@/components/Header';
+import Footer from '@/components/Footer';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
@@ -31,7 +31,7 @@ const Booking = () => {
   const hotel = {
     name: 'Grand Luxury Hotel',
     location: 'Москва, Центр',
-    image: 'https://cdn.poehali.dev/projects/e7350ded-ea73-497a-a535-0e7a49b24fde/files/b6c26cdb-5c36-4922-b811-07a7a64fb185.jpg',
+    image: 'https://cdn.poehali.dev/projects/e7350ded-ea73-497a-a535-0e7a49b24fde/files/86150e20-6727-48c4-a75e-5a1469a3d522.jpg',
     room: {
       name: 'Стандартный номер',
       price: 12000
