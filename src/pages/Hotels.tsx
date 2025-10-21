@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { useNavigate, useSearchParams } from 'react-router-dom';
-import Header from '@/components/layout/Header';
-import Footer from '@/components/layout/Footer';
+import Header from '@/components/Header';
+import Footer from '@/components/Footer';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Card, CardContent } from '@/components/ui/card';
@@ -25,7 +25,7 @@ const Hotels = () => {
       rating: 4.8,
       reviews: 342,
       amenities: ['Wi-Fi', 'Бассейн', 'Ресторан', 'Парковка'],
-      image: 'https://cdn.poehali.dev/projects/e7350ded-ea73-497a-a535-0e7a49b24fde/files/b6c26cdb-5c36-4922-b811-07a7a64fb185.jpg'
+      image: 'https://cdn.poehali.dev/projects/e7350ded-ea73-497a-a535-0e7a49b24fde/files/86150e20-6727-48c4-a75e-5a1469a3d522.jpg'
     },
     {
       id: 2,
@@ -35,7 +35,7 @@ const Hotels = () => {
       rating: 4.6,
       reviews: 218,
       amenities: ['Wi-Fi', 'Завтрак', 'Фитнес'],
-      image: 'https://cdn.poehali.dev/projects/e7350ded-ea73-497a-a535-0e7a49b24fde/files/830efcbb-ff82-4f3f-8fbe-e14d973b2bc4.jpg'
+      image: 'https://cdn.poehali.dev/projects/e7350ded-ea73-497a-a535-0e7a49b24fde/files/88b94e61-7a01-4c23-aeb2-87ca5fce009b.jpg'
     },
     {
       id: 3,
@@ -45,7 +45,7 @@ const Hotels = () => {
       rating: 4.7,
       reviews: 287,
       amenities: ['Wi-Fi', 'Бассейн', 'Спа', 'Пляж'],
-      image: 'https://cdn.poehali.dev/projects/e7350ded-ea73-497a-a535-0e7a49b24fde/files/41134249-8373-47bf-9823-458f52e7b2ba.jpg'
+      image: 'https://cdn.poehali.dev/projects/e7350ded-ea73-497a-a535-0e7a49b24fde/files/e840dcef-0a96-4df2-97b8-1e024a1df3c2.jpg'
     },
     {
       id: 4,
@@ -55,7 +55,7 @@ const Hotels = () => {
       rating: 4.5,
       reviews: 156,
       amenities: ['Wi-Fi', 'Завтрак', 'Парковка'],
-      image: 'https://cdn.poehali.dev/projects/e7350ded-ea73-497a-a535-0e7a49b24fde/files/b6c26cdb-5c36-4922-b811-07a7a64fb185.jpg'
+      image: 'https://cdn.poehali.dev/projects/e7350ded-ea73-497a-a535-0e7a49b24fde/files/86150e20-6727-48c4-a75e-5a1469a3d522.jpg'
     },
     {
       id: 5,
@@ -65,7 +65,7 @@ const Hotels = () => {
       rating: 4.9,
       reviews: 412,
       amenities: ['Wi-Fi', 'Бассейн', 'Ресторан', 'Спа', 'Пляж'],
-      image: 'https://cdn.poehali.dev/projects/e7350ded-ea73-497a-a535-0e7a49b24fde/files/830efcbb-ff82-4f3f-8fbe-e14d973b2bc4.jpg'
+      image: 'https://cdn.poehali.dev/projects/e7350ded-ea73-497a-a535-0e7a49b24fde/files/88b94e61-7a01-4c23-aeb2-87ca5fce009b.jpg'
     },
     {
       id: 6,
@@ -75,7 +75,7 @@ const Hotels = () => {
       rating: 4.7,
       reviews: 198,
       amenities: ['Wi-Fi', 'Ресторан', 'Фитнес', 'Парковка'],
-      image: 'https://cdn.poehali.dev/projects/e7350ded-ea73-497a-a535-0e7a49b24fde/files/41134249-8373-47bf-9823-458f52e7b2ba.jpg'
+      image: 'https://cdn.poehali.dev/projects/e7350ded-ea73-497a-a535-0e7a49b24fde/files/e840dcef-0a96-4df2-97b8-1e024a1df3c2.jpg'
     }
   ];
 

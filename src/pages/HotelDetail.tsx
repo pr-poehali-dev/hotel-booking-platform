@@ -30,9 +30,9 @@ const HotelDetail = () => {
     reviews: 342,
     description: 'Роскошный отель в самом центре Москвы с потрясающим видом на город. Предлагаем высококлассный сервис, элегантные номера и широкий спектр услуг для комфортного отдыха.',
     images: [
-      'https://cdn.poehali.dev/projects/e7350ded-ea73-497a-a535-0e7a49b24fde/files/109edd2a-69a4-42db-9caf-8dffc16f42c3.jpg',
-      'https://cdn.poehali.dev/projects/e7350ded-ea73-497a-a535-0e7a49b24fde/files/8e92e188-47c0-4cd4-8b6c-58d71f7ad8ff.jpg',
-      'https://cdn.poehali.dev/projects/e7350ded-ea73-497a-a535-0e7a49b24fde/files/9e0ecc22-a1bf-4ae5-a68c-cc77d7b964f5.jpg',
+      'https://cdn.poehali.dev/projects/e7350ded-ea73-497a-a535-0e7a49b24fde/files/86150e20-6727-48c4-a75e-5a1469a3d522.jpg',
+      'https://cdn.poehali.dev/projects/e7350ded-ea73-497a-a535-0e7a49b24fde/files/88b94e61-7a01-4c23-aeb2-87ca5fce009b.jpg',
+      'https://cdn.poehali.dev/projects/e7350ded-ea73-497a-a535-0e7a49b24fde/files/e840dcef-0a96-4df2-97b8-1e024a1df3c2.jpg',
     ],
     amenities: [
       { icon: 'Wifi', name: 'Бесплатный WiFi' },
@@ -51,7 +51,7 @@ const HotelDetail = () => {
         size: 25,
         guests: 2,
         price: 12000,
-        image: 'https://cdn.poehali.dev/projects/e7350ded-ea73-497a-a535-0e7a49b24fde/files/8e92e188-47c0-4cd4-8b6c-58d71f7ad8ff.jpg',
+        image: 'https://cdn.poehali.dev/projects/e7350ded-ea73-497a-a535-0e7a49b24fde/files/88b94e61-7a01-4c23-aeb2-87ca5fce009b.jpg',
         amenities: ['WiFi', 'ТВ', 'Кондиционер']
       },
       {
@@ -60,7 +60,7 @@ const HotelDetail = () => {
         size: 35,
         guests: 2,
         price: 18000,
-        image: 'https://cdn.poehali.dev/projects/e7350ded-ea73-497a-a535-0e7a49b24fde/files/9e0ecc22-a1bf-4ae5-a68c-cc77d7b964f5.jpg',
+        image: 'https://cdn.poehali.dev/projects/e7350ded-ea73-497a-a535-0e7a49b24fde/files/e840dcef-0a96-4df2-97b8-1e024a1df3c2.jpg',
         amenities: ['WiFi', 'ТВ', 'Кондиционер', 'Мини-бар']
       },
       {
@@ -69,7 +69,7 @@ const HotelDetail = () => {
         size: 50,
         guests: 4,
         price: 25000,
-        image: 'https://cdn.poehali.dev/projects/e7350ded-ea73-497a-a535-0e7a49b24fde/files/109edd2a-69a4-42db-9caf-8dffc16f42c3.jpg',
+        image: 'https://cdn.poehali.dev/projects/e7350ded-ea73-497a-a535-0e7a49b24fde/files/86150e20-6727-48c4-a75e-5a1469a3d522.jpg',
         amenities: ['WiFi', 'ТВ', 'Кондиционер', 'Мини-бар', 'Джакузи']
       }
     ],
